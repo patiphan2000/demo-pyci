@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.com/github/patiphan2000/demo-pyci.svg?branch=master)](https://travis-ci.com/github/patiphan2000/demo-pyci)
+[![Build Status](https://travis-ci.com/patiphan2000/demo-pyci.svg?branch=master)](https://travis-ci.com/github/patiphan2000/demo-pyci)
 
 Continuous Integration Demo
 ============================
